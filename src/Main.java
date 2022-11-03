@@ -13,6 +13,7 @@ public class Main {
 
         if (number<1){
             System.out.println("geçersiz sayı");
+            System.out.println("hello world");
             return;
         }
 
